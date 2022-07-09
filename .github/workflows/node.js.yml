@@ -33,4 +33,5 @@ jobs:
     - run: |
         git config user.name "node-js-action"
         git config user.email "node-js-action@github"
+        git remote set-url origin "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/thomasleplus/offcrypt.git"
         npm run deploy
