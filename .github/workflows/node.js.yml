@@ -33,7 +33,7 @@ jobs:
     - run: npm run build --if-present
     - run: npm test
     - run: |
-        git config user.name "node-js-action"
-        git config user.email "node-js-action@github"
-        git remote set-url origin "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/thomasleplus/offcrypt.git"
+        git config user.name "github-actions-bot"
+        git config user.email "support+actions@github.com"
+        git remote set-url origin "https://git:${GITHUB_TOKEN}@github.com/thomasleplus/offcrypt.git"
         npm run deploy
