@@ -5,7 +5,7 @@ Offline Progessive Web App (PWA) implementing various cryptographic functions.
 
 ## Usage
 
-Visit the [live app](https://thomasleplus.github.com/offcrypt).
+Visit the [live app](https://thomasleplus.github.io/offcrypt).
 
 ## Development
 
