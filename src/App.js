@@ -12,7 +12,7 @@ function App () {
           target='_blank'
           rel='noopener noreferrer'
         >
-          Source code on GitHub
+          GitHub
         </a>
       </header>
     </div>
