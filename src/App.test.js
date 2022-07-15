@@ -5,4 +5,4 @@ test('renders learn react link', () => {
   render(<App />)
   const linkElement = screen.getByText(/GitHub/i)
   expect(linkElement).toBeInTheDocument()
-});
+})
