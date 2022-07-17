@@ -1,11 +1,15 @@
 # offcrypt
-Offline Progessive Web App implementing various cryptographic functions.
+Offline Progessive Web App (PWA) implementing various cryptographic functions.
 
 [![Node.js CI](https://github.com/thomasleplus/offcrypt/workflows/Node.js%20CI/badge.svg)](https://github.com/thomasleplus/offcrypt/actions?query=workflow:"Node.js%20CI")
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Usage
 
-## Available Scripts
+Visit the [live app](https://thomasleplus.github.io/offcrypt).
+
+## Development
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
