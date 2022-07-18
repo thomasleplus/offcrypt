@@ -22,7 +22,7 @@ cd "${SCRIPT_DIR}"
 
 \echo Installing npm-check-updates...
 
-\npm install npm-check-updates
+\npm install -g npm-check-updates
 
 \echo Running ncu...
 
