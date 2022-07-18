@@ -1,5 +1,5 @@
 ---
-name: NPM Check Updates
+name: NPM Dependency Check
 
 on:
   push:
@@ -25,5 +25,4 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run: npm install -g npm-check-updates
-    - run: ncu
+    - run: ./npm-dependency-check.sh
