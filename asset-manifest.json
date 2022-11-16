@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/offcrypt/static/css/main.073c9b0a.css",
-    "main.js": "/offcrypt/static/js/main.f6bfd243.js",
-    "static/js/496.006e788b.chunk.js": "/offcrypt/static/js/496.006e788b.chunk.js",
+    "main.js": "/offcrypt/static/js/main.1d4f045a.js",
+    "static/js/496.fbe7a911.chunk.js": "/offcrypt/static/js/496.fbe7a911.chunk.js",
     "index.html": "/offcrypt/index.html",
     "main.073c9b0a.css.map": "/offcrypt/static/css/main.073c9b0a.css.map",
-    "main.f6bfd243.js.map": "/offcrypt/static/js/main.f6bfd243.js.map",
-    "496.006e788b.chunk.js.map": "/offcrypt/static/js/496.006e788b.chunk.js.map"
+    "main.1d4f045a.js.map": "/offcrypt/static/js/main.1d4f045a.js.map",
+    "496.fbe7a911.chunk.js.map": "/offcrypt/static/js/496.fbe7a911.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f6bfd243.js"
+    "static/js/main.1d4f045a.js"
   ]
 }
