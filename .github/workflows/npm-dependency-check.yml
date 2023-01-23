@@ -2,8 +2,6 @@
 name: NPM Dependency Check
 
 on:
-  push:
-  pull_request:
   schedule:
     - cron: '0 0 * * 0'
   workflow_dispatch:
