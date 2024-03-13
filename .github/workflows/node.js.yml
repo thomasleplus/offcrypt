@@ -36,7 +36,7 @@ jobs:
     - run: |
         git config user.name "github-actions-bot"
         git config user.email "support+actions@github.com"
-        git remote set-url origin "https://git:${GITHUB_TOKEN}@github.com/thomasleplus/offcrypt.git"
+        git remote set-url origin "https://git:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
         npm run deploy
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
